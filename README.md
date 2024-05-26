@@ -1,3 +1,6 @@
+https://github.com/9sh0ggh0th/React-chess
+Звичайна гра в шахи, реалізована на React за допомогою Typescript.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
